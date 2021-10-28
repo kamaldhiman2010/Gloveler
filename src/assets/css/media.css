@@ -1,0 +1,541 @@
+@media only screen and (min-width:1700px) {
+    .img-outer {
+        height: 320px;
+    }
+    .why-glovier p.card-text {
+        max-width: 90%;
+      }
+}
+
+@media only screen and (min-width:992px) and (max-width:1399px){
+    .dates {
+        padding: 8px 2px;
+    }
+    .hero-txt .great-offers input[type="text"] {
+        padding: 0 20px 0 20px;
+        max-width: 297px;
+    }
+    header .navbar, .breadcrumb, .plr-80{
+        padding-left: 40px !important;
+        padding-right: 40px !important;
+    }
+    .hero-txt h1 {
+        font-size: 68px;
+        line-height: 85px;
+    }
+    .pos-title {
+        font-size: 22px;
+    }
+    .hero-txt {
+        max-width: 920px;
+    }
+    .banner-input-rule {
+        font-size: 28px;
+    }
+        
+}
+
+@media only screen and (min-width:768px) and (max-width:991px){
+    .listing-right-sec h2 {
+        font-size: 20px;
+    }
+    .availability button {
+        padding: 9px 11px;
+        font-size: 12px;
+    }
+    .pos-title {
+        font-size: 16px;
+    }
+    .tab-sorting a {
+        padding: 8px 6px;
+        font-size: 11px;
+    }
+    .navbar-collapse {
+        background: #444;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        z-index: 99;
+        right: 0;
+    }
+    header .navbar {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .plr-80 {
+        padding-left: 16px !important;
+        padding-right: 16px !important;
+    }
+    .hero-txt h1 {
+        font-size: 60px;
+        line-height: normal;
+    }
+    header .navbar {
+        padding-left: 20px;
+        padding-right: 20px;
+        flex-direction: row-reverse;
+    }
+    header .fa-bars {
+        color: #fff;
+        font-size: 28px;
+    }
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+    .navbar-light .navbar-toggler:focus{
+        background: transparent !important;
+        box-shadow: none !important;
+    }
+    .navbar-collapse {
+        background: #444;
+    }
+    header .navbar-light .navbar-text {
+        padding: 8px 0;
+        display: block;
+        width: 100%;
+    }
+    header .navbar-light .navbar-text a {
+        padding: 0 22px !important;
+    }
+    ul.navbar-nav {
+        align-items: center;
+        padding: 21px 0;
+    }
+    .great-offers input[type="text"] {
+        max-width: 200px;
+    }
+    .banner-input-rule {
+        font-size: 26px;
+    }
+    .find {
+        font-size: 26px;
+    }
+    .hero-image {
+        height: 70vh;
+    }
+    .img-outer {
+        margin-bottom: 22px;
+        height: 180px;
+    }
+    .about {
+        padding: 70px 70px;
+    }
+    .section-title + p {
+        font-size: 26px;
+    }
+    .tick-outer {
+        margin-top: 70px;
+    }
+    .logos-sec li img {
+        width: 79%;
+    }
+    .card-title {
+        font-size: 18px;
+        line-height: normal;
+    }
+    .room-desc ul {
+        margin-top: 23px;
+    }
+    .review h5 {
+        font-size: 14px;
+        line-height: normal;
+    }
+    .review h5 span{
+
+        margin-bottom: 6px;
+    }
+    /* .mobView{
+        padding: 0 7px;
+    } */
+}
+
+@media only screen and (max-width:767px){
+    .payment-page .booking-card {
+        padding-bottom: 9px;
+    }
+    .price-detail-wrapper {
+        padding: 14px;
+    }
+    .yourTrip h2{
+        display: none;
+    }
+    .desk-none {
+        display: block;
+        border: none !important;
+    }
+    .share-outer {
+        position: absolute;
+        top: 6px;
+        right: 0;
+    }
+    .property-pics-mob {
+        margin-top: 20px;
+    }
+    .property-name-wrapper {
+        flex-direction: column-reverse;
+        position: relative;
+    }
+    .facility-listing h5 {
+        margin-top: 54px;
+    }
+    .rating-bar-wrapper {
+        padding-bottom: 0;
+        border: none !important;
+    }
+    .guest-review .review {
+        flex-direction: row;
+    }
+    .guest-review {
+        padding: 0 0 60px;
+    }
+    .pagination-outer .pagi-nation {
+        max-width: 100% !important;
+        width: 100% !important;
+        flex: 0 0 100% !important;
+        text-align: center;
+    }
+    .pagination-outer ul {
+        margin: 0;
+        justify-content: center;
+    }
+    .sort{
+        display: none;
+    }
+    .hotel-rating p {
+        position: relative;
+        left: -4px;
+    }
+    .breadcrumb{
+        display: none;
+    }
+    .mobile-search .form-control::placeholder {
+        color: #000;
+        font-weight: 600;
+        font-size: 13px;
+    }
+    .inner-pg-header .breadcrumb {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+    .listing-property {
+        padding: 0 0 40px;
+    }
+    .access li {
+        float: left;
+    }
+    .hero-image .great-offers {
+        margin-top: 43px;
+    }
+    .mobile-search {
+        display: block;
+        background: #f7f7f7;
+        padding-top: 16px;
+    }
+      .search-wrapper, .filter-wrapper{
+          display: none;
+      }
+    .search-wrapper .form-outer .row .col-md-6:first-child {
+        margin-bottom: 20px;
+    }
+    .bookProperty h5,  .bookProperty p,  .bookProperty span {
+        text-align: center;
+    }
+    .bookProperty-inner {
+        justify-content: center;
+        margin: 19px 0 0;
+    }
+    .payment-tabs-wrapper .nav-item {
+        margin: 0 0 8px;
+    }
+    .yourTrip {
+        margin-top: 24px;
+    }
+    .half-width {
+        width: 100%;
+    }
+    .radioGroup {
+        width: 78%;
+    }
+    .payment-page>.row {
+        flex-direction: column-reverse;
+    }
+    .rating-bar-inner {
+        justify-content: flex-start;
+        flex-direction: column;
+    }
+    .rating-bar-inner h4 {
+        width: 100%;
+    }
+    .rating-bar {
+        width: 100%;
+    }
+    .rating-bar-inner:last-child {
+        margin-bottom: 16px;
+    }
+    .guest-rating-inner:first-child{
+        margin-top: 32px;
+    }
+    .room-desc-inner {
+        padding: 0 16px;
+        display: inline-block;
+    }
+    .contactUs iframe {
+        height: 216px;
+    }
+    .contactUs {
+        margin-top: 0;
+    }
+    .alert-outer {
+        margin-bottom: 0;
+    }
+    .contactUs-txt {
+        flex-direction: column;
+    }
+    .room-desc {
+        margin-top: 0;
+    }
+    .book-stay-wrapper {
+        padding: 0;
+    }
+    .border-bottom.mobView {
+        border: none !important;
+    }
+    .mobView {
+       float: left;
+        vertical-align: top;
+    }
+    .room-features {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .right-border {
+        border-right: none;
+    }
+    .room-desc ul {
+        margin-top: 30px;
+    }
+    .room-details {
+        display: none;
+    }
+    .property-pics-mob{
+        display: block;
+    }
+    .property-pics-outer{
+        display: none;
+    }
+    .navbar-collapse {
+        background: #444;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        z-index: 99;
+        right: 0;
+    }
+    .hotel-room h6, .hotel-request, .availability{
+        display: none !important;
+    }
+    .top-bar{
+        display: none;
+    }
+    .access {
+        display: inline-block !important;
+    }
+    .hotel-rating h4 {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .rating {
+        margin-left: 0;
+        margin-right: 8px;
+    }
+    .review {
+        justify-content: flex-end;
+        align-items: center;
+        flex-direction: row-reverse;
+    }
+    .hotel-rating h4 span {
+        margin-right: 11px;
+        display: inline-block;
+        text-align: left;
+        width: 100%;
+    }
+    .hero-txt h1 {
+        font-size: 33px;
+        line-height: 36px;
+        padding: 0 12px;
+    }
+    header .navbar {
+        padding-left: 20px;
+        padding-right: 20px;
+        flex-direction: row-reverse;
+    }
+    header .fa-bars {
+        color: #fff;
+        font-size: 28px;
+    }
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+    .navbar-light .navbar-toggler:focus{
+        background: transparent !important;
+        box-shadow: none !important;
+    }
+    .navbar-collapse {
+        background: #444;
+    }
+    .hero-txt h1 + p {
+        font-size: 18px;
+        line-height: normal;
+        margin-top: 21px;
+    }
+    .great-offers input[type="text"] {
+        background: #2BFFFA;
+        font-size: 16px;
+        padding: 0;
+        min-height: 42px;
+        text-align: center;
+        border-radius: 4px;
+    }
+    .great-offers .input-group {
+        flex-direction: column;
+    }
+    .great-offers .form-inline {
+        background: transparent;
+    }
+    .great-offers button.btn-primary {
+        padding: 0;
+        min-height: 42px;
+        margin-top: 8px;
+        margin-bottom: 0;
+        border-radius: 4px;
+        font-size: 16px;
+        background: #2BFFFA;
+        width: 100%;
+        text-align: center;
+    }
+    .great-offers button.find {
+        padding: 0 !important;
+        line-height: normal;
+        background-color: #00B2AD;
+    }
+    .section-title {
+        font-size: 33px;
+        line-height: normal;
+    }
+    .section-title + p {
+        font-size: 18px;
+        line-height: normal;
+    }
+    .plr-80 {
+        padding-left: 16px !important;
+        padding-right: 16px !important;
+    }
+    .images-blocks {
+        margin-top: 32px;
+    }
+    .img-outer {
+        margin-bottom: 8px;
+        height: 100px;
+    }
+    .pos-title {
+        font-size: 16px;
+    }
+    .great-offers input[type="text"] {
+        max-width: 100%;
+        min-width: 250px;
+    }
+    .miss-out {
+        padding:96px 0 60px;
+    }
+    .about {
+        padding: 60px 0;
+    }
+    .about-inner {
+        margin-top: 32px;
+    }
+    .about .card-body {
+        padding: 32px 0 0;
+    }
+    .about .block-outer:not(:first-child) {
+        margin-top: 60px;
+    }
+    .tick-outer .text-left:not(:last-child) {
+        margin-bottom: 40px;
+    }
+    .tick-outer {
+        margin-top: 80px;
+    }
+    .logos-sec ul {
+        display: inline-block !important;
+    }
+    .logos-sec li img{
+        max-width: 100%;
+    }
+
+    .logos-sec li {
+        list-style: none;
+        width: 50%;
+        display: inline-block;
+        margin-bottom: 41px;
+        text-align: center;
+    }
+    .logos-sec li:last-child{
+        width: 100%;
+        margin-bottom: 0;
+    }
+    .logos-sec {
+        padding: 70px 0 28px;
+    }
+    .list-property a {
+        display: block;
+    }
+    .list-property a:first-child {
+        max-width: 200px;
+        margin: 0 auto 32px;
+    }
+    .property-owner {
+        padding: 60px 0;
+    }
+    .follow {
+        padding: 60px 0;
+    }
+    .social-icons a {
+        width: 48px;
+        height: 48px;
+        font-size: 27px;
+    }
+    .social-icons {
+        margin-top: 26px;
+    }
+    .contact-us {
+        margin-top: 40px;
+    }
+  .footer-logo {
+        text-align: center;
+        margin-bottom: 60px;
+    }
+    .footer-logo p{
+        display: none;
+    }
+    .footer-list {
+        max-width: 50%;
+        width: 50% !important;
+        flex-basis: auto;
+        margin-bottom: 40px;
+    }
+    .mob-block{
+        display: block;
+    }
+    header .navbar-light .navbar-text {
+        padding: 8px 0;
+        display: block;
+        width: 100%;
+    }
+    header .navbar-light .navbar-text a {
+        padding: 0 22px !important;
+    }
+    ul.navbar-nav {
+        align-items: center;
+        padding: 21px 0;
+    }
+}
